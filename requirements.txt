@@ -1,0 +1,10 @@
+# Versions used in the study. Fill the remaining pins from your environment:
+#   pip freeze | findstr /i "ollama openpyxl matplotlib medspacy rapidfuzz"     (Windows)
+#   pip freeze | grep -i -E "ollama|openpyxl|matplotlib|medspacy|rapidfuzz"     (macOS/Linux)
+numpy==1.26.4
+pandas==2.3.0
+openpyxl
+matplotlib
+ollama
+medspacy
+rapidfuzz

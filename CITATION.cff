@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article."
+title: "Offline LLM extraction of structured labels from Indonesian tuberculosis screening chest radiograph reports"
+authors:
+  - name: "[authors withheld for review]"
+version: "1.0.0"
+date-released: "2026-10-16"
+license: MIT
